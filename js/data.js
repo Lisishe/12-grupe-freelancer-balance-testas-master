@@ -1,3 +1,5 @@
+"use strict";
+
 const account = [
     { month: 10, income: 150 },
     { month: 1, income: 200, expense: 50 },
@@ -13,4 +15,9 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-const months = ['Sausis', 'Vasaris', 'Kovas'];
+
+// menesiu pavadinimai
+
+const months = ['Sausis', 'Vasaris', 'Kovas', 'Balandis', 'Gegužė', 'Birželis', 'Liepa', 'Rugpjūtis','Rugsėjis', 'Spalis', 'Lapkritis', 'Gruodis'];
+
+
