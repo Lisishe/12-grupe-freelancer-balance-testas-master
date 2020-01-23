@@ -1,5 +1,7 @@
 "use strict";
 
-Funktion menesiuPavadinimai (months) {
+Funktion renderTable(acount, months) {
+    lo
+
     return; 
 }

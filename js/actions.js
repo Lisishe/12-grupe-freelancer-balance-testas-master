@@ -1,2 +1,2 @@
 "use strict";
-rendermenesiuPavadinimai( months );
+renderTable( months );
